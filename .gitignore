@@ -56,6 +56,7 @@ bundle/manifests/instana-agent-operator.clusterserviceversion.yaml
 bundle/manifests/instana.io_agents.yaml
 bundle/metadata/annotations.yaml
 mocks/
+config/crd/bases/
 
 # Binary
 instana-agent-operator
